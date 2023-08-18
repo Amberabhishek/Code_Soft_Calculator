@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="_1">0</string>
+    <string name="d">C</string>
+    <string name="a">(</string>
+    <string name="c">)</string>
+    <string name="b">/</string>
+    <string name="aa">7</string>
+    <string name="o">8</string>
+    <string name="k">9</string>
+    <string name="l">*</string>
+    <string name="p">=</string>
+    <string name="pp">.</string>
+    <string name="kk">0</string>
+    <string name="ij">AC</string>
+    <string name="ji">-</string>
+    <string name="ljk">3</string>
+    <string name="dr">2</string>
+    <string name="lk">+</string>
+    <string name="ikh">5</string>
+    <string name="kh">4</string>
+    <string name="khgfd">6</string>
+</resources>
